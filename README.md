@@ -33,6 +33,7 @@ Credential ID: `hoPGZtdFkJPgxvkCP`
 
 ### 📫 Let’s Connect
 - ✉️ khantass63@gmail.com  
-- 🌐 [My Resume](#)
+- 🌐 [My Resume](Added my resume PDF
+)
 - 💼 www.linkedin.com/in/khan-tasmiya-sidum14
   
