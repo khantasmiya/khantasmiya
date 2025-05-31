@@ -20,7 +20,7 @@ I believe in coding with purpose — to uplift my life and my family’s future 
 ---
 
 ### 📊 Projects
-- 🔗 [Financial Trend Analysis](https://github.com/khantasmiya/financial-trend-analysis)  
+- 🔗 README.md
 - 🤖 [Financial Chatbot](https://github.com/khantasmiya/financial-chatbot)
 
 ---
